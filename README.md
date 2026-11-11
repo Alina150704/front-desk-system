@@ -145,7 +145,6 @@ The modular project structure provides flexibility for implementing additional f
 - Dashboard analytics and reporting.
 - Role-based authentication and access control.
 
-*These are potential enhancements and should only be considered implemented once they are developed and integrated.*
 
 ## 👩‍💻 Development
 
