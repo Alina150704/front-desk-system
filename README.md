@@ -153,6 +153,4 @@ The application follows modern frontend development practices with a focus on cl
 
 Contributions, improvements, and feature enhancements can be incorporated as the project evolves.
 
-## 📄 License
 
-This project is developed for educational and development purposes. Add an appropriate license before distributing or publishing the project.
